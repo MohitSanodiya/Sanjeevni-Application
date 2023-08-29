@@ -1,2 +1,2 @@
-# Sanjeevni-Application
-It is my first project
+# Project1
+This is my first Git repository
